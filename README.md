@@ -1,2 +1,2 @@
 # Scientific_Calculator
-this is my first git repository
+This is my first git repository
