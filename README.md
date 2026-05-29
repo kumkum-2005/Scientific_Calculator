@@ -4,7 +4,7 @@ A beautiful, fully-functional Scientific Calculator built using Python. This cal
 
 # Features
 
-# 📱 Simple Calculator
+#📱 Simple Calculator
       Basic arithmetic operations (+, -, ×, ÷)
       Percentage calculations
       Decimal support
